@@ -18,6 +18,5 @@ public class Nurses {
     public String getNurseName() {
         return nurseName;
     }
-
-    
+ 
 }
