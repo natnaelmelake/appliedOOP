@@ -14,6 +14,4 @@ public class ChildClass2 extends ParentClass{
         System.out.println("year is : " + this.year);
     }
 
-    
-    
 }

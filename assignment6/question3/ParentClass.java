@@ -13,9 +13,5 @@ public class ParentClass {
     public void showDetails(){
         System.out.println("id is : " + this.id);
         System.out.println("name is : " + this.name);
-    }
-
-    
-
-    
+    }    
 }
